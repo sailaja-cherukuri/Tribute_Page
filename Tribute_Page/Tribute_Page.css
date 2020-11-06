@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 40px;
+	color: white;
+}
+h5 {
+	text-align: center;
+	font-size: 17px;
+	color: darkgreen;
+}
+h4 {
+	text-align:center;
+	font-size: 20px;
+	color: darkgreen;
+}
+#image {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+height: 300px;
+}
+
+#img-caption {
+	font-family: sans-serif;
+	font-size: 15px;
+	color: white;
+}
+#tribute-info {
+	font-family: sans-serif;
+	font-size: 15px;
+	color: white;
+}
+h2 {
+	font-family: sans-serif;
+	color: darkgreen;
+
+}
+
+#imagee {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+height: 300px;
+}
+#info
+{
+	font-family: sans-serif;
+	font-size: 15px;
+	color:white;
+}
+.tribute-link {
+	font-size: 20px;
+}
+
